@@ -1,0 +1,6 @@
+E:\My work\test oops\SOLID\SOLIDPrinciples\SOLIDPrinciples\bin\Debug\SOLIDPrinciples.exe.config
+E:\My work\test oops\SOLID\SOLIDPrinciples\SOLIDPrinciples\bin\Debug\SOLIDPrinciples.exe
+E:\My work\test oops\SOLID\SOLIDPrinciples\SOLIDPrinciples\bin\Debug\SOLIDPrinciples.pdb
+E:\My work\test oops\SOLID\SOLIDPrinciples\SOLIDPrinciples\obj\Debug\SOLIDPrinciples.csprojResolveAssemblyReference.cache
+E:\My work\test oops\SOLID\SOLIDPrinciples\SOLIDPrinciples\obj\Debug\SOLIDPrinciples.exe
+E:\My work\test oops\SOLID\SOLIDPrinciples\SOLIDPrinciples\obj\Debug\SOLIDPrinciples.pdb
